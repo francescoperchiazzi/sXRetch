@@ -19,7 +19,7 @@ This folder is a fully self-contained static site. To make translation loading w
 Example:
 
 ```bash
-cd /path/to/newwebsite2025/apps/sxretch
+cd /path/apps/sxretch
 python3 -m http.server 8000
 ```
 
