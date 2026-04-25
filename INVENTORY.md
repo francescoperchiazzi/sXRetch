@@ -59,6 +59,7 @@ Snapshot of the `/apps/sxretch` folder (contents and sizes).
 
 - The USDZ/GLB files dominate the total size: great for demos, but heavy for transfer.
 - `.DS_Store` should typically be excluded from version control.
+- Recent CSS tweaks: removed default bottom spacing on `img`/`video`, reduced app `body` bottom padding, added `4px` padding on `.workflow-container`.
 
 ### Video
 

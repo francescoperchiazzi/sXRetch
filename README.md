@@ -85,4 +85,5 @@ Then open `http://localhost:8000/`.
 ## Notes
 
 - Total supported languages: 31 (30 in `translations.json` + `en` embedded in `index.html`).
+- Recent CSS tweaks: removed default bottom spacing on `img`/`video`, reduced app `body` bottom padding, added `4px` padding on `.workflow-container`.
 - sXRetch v1.0 · Last updated: 29 Mar 2026 · Agentic coding with a “vibe” twist — built in TRAE.

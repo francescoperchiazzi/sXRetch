@@ -718,7 +718,6 @@ video {
   display: block;
   object-fit: contain;
   border-radius: var(--border-radius-sm);
-  margin-bottom: calc(var(--space-micro) * var(--phi-squared));
 }
 
 figure > div {
@@ -2182,7 +2181,7 @@ figure .app-icon-ios {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 40px 20px 80px;
+    padding: 40px 20px 40px;
     overflow-x: hidden;
   }
 
@@ -2603,7 +2602,7 @@ figure .app-icon-ios {
     background: var(--color-section-alt);
     border: var(--border-width-1) solid var(--color-section-alt-strong);
     border-top: 3px solid var(--color-action);
-    padding: 0;
+    padding: 4px;
     margin-bottom: var(--space-md);
   }
   .workflow-container > .card:last-child {
@@ -2611,7 +2610,7 @@ figure .app-icon-ios {
   }
   @media (max-width: 520px) {
     .workflow-container {
-      padding: 0;
+      padding: 4px;
     }
   }
 
